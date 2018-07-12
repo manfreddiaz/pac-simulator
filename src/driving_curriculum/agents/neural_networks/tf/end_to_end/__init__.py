@@ -1,0 +1,5 @@
+from .learner_cnn_regresion import LearnerOneResidualDropout
+from .learner_cnn_mdn import LearnerOneResidualMDN
+from .learner_cnn_rnn_mdn import LearnerOneResidualRNNMDN
+from .learner_cnn_rnn_regression import LearnerOneResidualRNNDropout
+from .learner_vae import NoveltyDetectorAgent

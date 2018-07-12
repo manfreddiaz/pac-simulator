@@ -1,0 +1,2 @@
+from .go_learner_cnn_regression import GoalOrientedLearnerOneResidualDropout
+from .go_learner_cnn_mdn import GoalOrientedLearnerOneResidualMDN
